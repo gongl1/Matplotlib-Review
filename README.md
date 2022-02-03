@@ -44,4 +44,4 @@ plt.tight_layout()
 
 
 ![3DMatplotlib](Images/3DMatplotlib.jpg)
-
+Images/3DMatplotlib.jpg

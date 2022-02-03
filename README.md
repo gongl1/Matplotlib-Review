@@ -31,8 +31,13 @@ axes2.set_title('Axes 2 Title');
 
 # Empty canvas of 1 by 2 subplots
 fig, axes = plt.subplots(nrows=1, ncols=2)
+
 axes[0].plot(x,y)
+
 axes[0].set_title('first plot')
+
 axes[1].plot(y,x)
+
 axes[1].set_title('second plot')
+
 plt.tight_layout()

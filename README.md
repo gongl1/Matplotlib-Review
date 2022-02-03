@@ -4,7 +4,9 @@
 
 # Creates blank canvas
 fig = plt.figure()
+
 axes1 = fig.add_axes([0.1, 0.1, 0.9, 0.9]) # main axes
+
 axes2 = fig.add_axes([0.2, 0.6, 0.4, 0.3]) # inset axes
 
 # Larger Figure Axes 1

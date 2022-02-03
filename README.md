@@ -43,5 +43,5 @@ axes[1].set_title('second plot')
 plt.tight_layout()
 
 
-![4-scatter](Images/3DMatplotlib.jpg)
+!(Images/3DMatplotlib.jpg)
 

@@ -43,5 +43,5 @@ axes[1].set_title('second plot')
 plt.tight_layout()
 
 
-![3DMatplotlib](Images/3DMatplotlib.jpg)
-Images/3DMatplotlib.jpg
+![1-Logo](Images/3DMatplotlib.jpg)
+
